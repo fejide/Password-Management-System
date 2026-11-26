@@ -1,0 +1,17 @@
+# macOS system files
+.DS_Store
+
+# Backup files
+*.bak
+*.mwb.bak
+
+# Environment variables and credentials
+.env
+.env.*
+*.pem
+*.key
+.my.cnf
+
+# Temporary files
+*.tmp
+*.log
